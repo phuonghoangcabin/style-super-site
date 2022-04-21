@@ -460,7 +460,8 @@ h3.notion-heading {
     display: inline-flex !important;
     justify-content: center !important;
     transition: background .2s ease-in-out !important;
-    background: var(--color-cta-background) !important;
+    /* background: var(--color-cta-background) !important; */
+    background-image: linear-gradient(35deg, #3CD0FF 0%, #2C65E2 100%) !important;
     color: var(--color-cta-text) !important;
     -webkit-animation: bounce .5s infinite alternate;
     -moz-animation: bounce .5s infinite alternate;
