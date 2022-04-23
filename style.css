@@ -772,6 +772,9 @@ html::-webkit-scrollbar-track {
     height: 22px;
     width: 22px;
 }
+.notion-embed__container>iframe {
+    background-color: var(--color-bg-default);
+}
 
 .theme-blackout .dark-mode-icon {
     display: none;
