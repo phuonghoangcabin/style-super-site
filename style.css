@@ -449,6 +449,9 @@ h3.notion-heading {
         max-height: 200px !important;
     }
 }
+.notion-semantic-string .link {
+    opacity: 1!important;
+}
 
 .notion-root .notion-text .notion-text__content .notion-semantic-string span strong .notion-link,
 .notion-text .notion-text__content .notion-semantic-string span .notion-link strong {
