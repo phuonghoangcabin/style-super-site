@@ -738,10 +738,9 @@ html::-webkit-scrollbar-track {
     }
 }
 
-.notion-embed {
-    border-radius: 16px;
-    overflow: hidden;
-    background-color: black !important;
+.notion-embed__content {
+    border-radius: 16px !important;
+    overflow: hidden !important;
 }
 
 .color-blue {
