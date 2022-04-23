@@ -773,7 +773,7 @@ html::-webkit-scrollbar-track {
     width: 22px;
 }
 .notion-embed__container>iframe {
-    background-color: var(--color-bg-default);
+    background-color: var(--color-bg-default) !important;
 }
 
 .theme-blackout .dark-mode-icon {
